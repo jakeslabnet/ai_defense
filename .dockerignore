@@ -1,0 +1,6 @@
+.git
+__pycache__
+*.pyc
+tests
+.env
+health_status.json
